@@ -1,8 +1,12 @@
 # User-application
 
-In our application we have 4 pages: Login, Registration, Profile, Dashboard. 
+In our application we have 4 pages: 
+  Login - https://screencloud.net/v/p670v,
+  Registration - https://screencloud.net/v/9Ayr2,
+  Profile - https://screencloud.net/v/AvGzw,
+  Dashboard - https://screencloud.net/v/1HW8l.
 
-- Registration & Login.
+- Registration & Login. 
 
 Any user can register or login and validation guarantees that email will be unique. Page forms are created using - Redux-forms.
 
